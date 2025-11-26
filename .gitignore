@@ -1,0 +1,3 @@
+# No versionar CSVs importados de QuantFlow
+*.csv
+!dataroma_holdings_complete.csv  # Excepto el original del proyecto
